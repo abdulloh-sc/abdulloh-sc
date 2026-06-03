@@ -10,12 +10,12 @@ Backend developer focused on building scalable applications with Java and Spring
 
 ### Tech Stack
 
-- Java
+- Java Core
 - Spring Boot
 - PostgreSQL
+- MySQL
 - Docker
-- Maven
-- Git
+
 
 ### GitHub Stats
 
