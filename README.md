@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Abdulloh</h1>
 
-<!--
-**abdulloh-sc/abdulloh-sc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Java Backend Developer
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+Java • Spring Boot • PostgreSQL • Docker
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Backend developer focused on building scalable applications with Java and Spring Boot.
+
+### Tech Stack
+
+- Java
+- Spring Boot
+- PostgreSQL
+- Docker
+- Maven
+- Git
+
+### GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SENING_USERNAME&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENING_USERNAME&layout=compact&hide_border=true" />
+</p>
+
+### Contact
+
+- Telegram: @username
+- Email: yourmail@gmail.com
