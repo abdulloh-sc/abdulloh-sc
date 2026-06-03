@@ -1,10 +1,6 @@
 <h1 align="center">Abdulloh</h1>
 
 <p align="center">
-Java Backend Developer
-</p>
-
-<p align="center">
 Java • Spring Boot • PostgreSQL • Docker
 </p>
 
@@ -30,5 +26,5 @@ Backend developer focused on building scalable applications with Java and Spring
 
 ### Contact
 
-- Telegram: @username
-- Email: yourmail@gmail.com
+- Telegram: @abvdulloh
+- Email: abdullohjon101@gmail.com
