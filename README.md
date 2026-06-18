@@ -10,5 +10,5 @@
 
 ### Contact
 
-- Telegram: @abvdulloh
+- Telegram: https://t.me/abvdulloh
 - Email: abdullohjon101@gmail.com
